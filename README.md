@@ -48,7 +48,7 @@ The application flow was designed as:
 
 ## Original Project Repository
 
-[PriorityMsgAI GitHub Repository](PASTE_LINK_HERE)
+[PriorityMsgAI GitHub Repository](https://github.com/ayyc808/PriorityMsgAI)
 
 ## Note
 
