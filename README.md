@@ -37,6 +37,10 @@ The application flow was designed as:
 5. Backend ranks/prioritizes messages
 6. Prioritized alerts displayed to emergency personnel
 
+## System Architecture
+
+![System Architecture](images/system-architecture.png)
+
 ## Technologies Used
 
 - Python
